@@ -1,0 +1,10 @@
+# esta es una prueba
+host = test.com # este es un comentarios
+server_id = 55331
+server_load_alarm = 2.5
+user = john
+verbose = true
+test_mode = on 
+debug_mode = off
+log_file_path = /tmp/logfile.log
+send_notifications = yes
